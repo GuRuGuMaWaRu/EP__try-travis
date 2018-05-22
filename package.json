@@ -1,6 +1,7 @@
 {
   "name": "react__test-travis",
   "version": "0.1.0",
+  "homepage": "https://GuRuGuMaWaRu.github.io/EP__try-travis/",
   "private": true,
   "devDependencies": {
     "react-scripts": "1.1.4"
